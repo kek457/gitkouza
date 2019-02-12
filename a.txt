@@ -1,0 +1,6 @@
+git init	リポジトリ初期化
+git add		コミットに含めるファイルを追加
+git commit	コミットを残す
+git push	リモートに保存
+git pull	リモートから差分を取得（同期）
+git clone	リポジトリ複製
